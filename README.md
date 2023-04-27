@@ -1,2 +1,2 @@
 # Web-Scraping
-Web Scraping using Python's Beautiful Soup library
+Web Scraping using Python's Beautiful Soup library.
